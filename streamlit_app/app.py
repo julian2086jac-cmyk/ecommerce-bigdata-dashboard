@@ -64,7 +64,7 @@ with st.sidebar:
         label_visibility="collapsed",
     )
     st.divider()
-    st.caption("300,000 órdenes · 2022-2023")
+    st.caption("500,000 órdenes · 2022-2023")
 
 # ------------------------------------------------------------
 # SECCION 1: DASHBOARD
@@ -72,7 +72,7 @@ with st.sidebar:
 
 if seccion == "📊 Dashboard":
     st.title("📊 Dashboard de Ventas E-Commerce")
-    st.caption("Colombia · 2022-2023 · 300,000 órdenes")
+    st.caption("Colombia · 2022-2023 · 500,000 órdenes")
 
     if not datos_ok:
         st.error("No se encontraron datos. Ejecuta primero el pipeline de Big Data.")
