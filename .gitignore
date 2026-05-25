@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.claude/
+data/ecommerce.csv
+data/ecommerce_limpio.parquet
