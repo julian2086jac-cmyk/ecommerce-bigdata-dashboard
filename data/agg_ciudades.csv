@@ -1,11 +1,11 @@
 ciudad,departamento,total_ordenes,ingreso_total,ticket_promedio,calificacion_promedio
-Bogota,Cundinamarca,90198,318612372.3,3532.37,3.62
-Medellin,Antioquia,59728,211126595.12,3534.8,3.63
-Cali,Valle del Cauca,45083,159816821.91,3544.95,3.62
-Barranquilla,Atlantico,30089,106180919.93,3528.89,3.63
-Cartagena,Bolivar,23940,84975911.41,3549.54,3.63
-Bucaramanga,Santander,17775,62659311.3,3525.14,3.61
-Pereira,Risaralda,11995,42954546.19,3581.04,3.6
-Manizales,Caldas,9166,32786142.01,3576.93,3.66
-Ibague,Tolima,6020,21283279.91,3535.43,3.6
-Cucuta,Norte de Santander,6006,20888539.84,3477.95,3.6
+Bogota,Cundinamarca,149908,528188715.84,3523.42,3.62
+Medellin,Antioquia,99837,354265127.76,3548.44,3.62
+Cali,Valle del Cauca,75190,266726233.16,3547.36,3.63
+Barranquilla,Atlantico,49936,176736371.54,3539.26,3.61
+Cartagena,Bolivar,39840,141414893.77,3549.57,3.63
+Bucaramanga,Santander,30230,106461664.94,3521.72,3.61
+Pereira,Risaralda,19780,70780781.2,3578.4,3.64
+Manizales,Caldas,15123,53141737.54,3513.97,3.61
+Cucuta,Norte de Santander,10048,35593205.46,3542.32,3.63
+Ibague,Tolima,10108,35373218.68,3499.53,3.63

@@ -1,7 +1,7 @@
 # ============================================================
 # 01_generar_dataset.py
 # Genera el dataset de ventas de e-commerce Colombia
-# 300.000 ordenes de compra entre 2022 y 2023
+# 500.000 ordenes de compra entre 2022 y 2023
 #
 # Ejecucion: python bigdata/01_generar_dataset.py
 # ============================================================
@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 
 np.random.seed(42)
-N = 300_000
+N = 500_000
 
 CATEGORIAS  = ["Electronica", "Ropa", "Hogar", "Deportes", "Libros", "Belleza", "Juguetes"]
 PRODUCTOS   = {
